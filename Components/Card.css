@@ -1,0 +1,32 @@
+.card {  
+    background-color:beige;
+    box-shadow: 5px 10px 20px rgb(212, 222, 224) inset;
+    padding: 10px;
+  }
+  
+
+  .cardImage{
+    height:350px;
+    width:300px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border:5px double rgb(237, 226, 226);
+    justify-content: center;
+  
+    
+    
+    
+  }
+
+  .container{
+    font-family: cursive;
+    
+    
+
+  }
+ 
+  .image{
+    display:flex;
+    justify-content: center;
+    align-items: centera;
+  }
